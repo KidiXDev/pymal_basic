@@ -9,7 +9,7 @@ LONG_DESCRIPTION = (this_directory / 'README.md').read_text()
 
 # Setting up
 setup(
-    name="pymal_basic",
+    name="pymal_basics",
     version=VERSION,
     author="KidiXDev",
     author_email="<kidixdev@gmail.com>",
