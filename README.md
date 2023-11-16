@@ -10,7 +10,7 @@ pip install pymal_basic
 ## Usage
 Basic Usage:
 ```python
-from anime import Anime
+from pymal_basic import Anime
 
 obj = Anime('YOUR CLIENT ID')
 
