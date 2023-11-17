@@ -4,7 +4,7 @@ Python Basic API wrapper for [MyAnimeList](https://myanimelist.net/)
 
 ## Installation
 ```shell
-pip install pymal_basic
+pip install pymal_basics
 ```
 
 ## Usage

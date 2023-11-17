@@ -11,8 +11,7 @@ class Anime:
         response = requests.get(url, params=params, headers=self.headers)
 
         if response.status_code == 200:
-            data = response.json()
-            return data
+            return response.json()
         else:
             return f'Error: {response.status_code}, {response.text}'
         
